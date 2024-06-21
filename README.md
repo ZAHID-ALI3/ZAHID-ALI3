@@ -3,31 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks+!;I'm+Najam+Ali+Abbas+;Let's+Follow+EachOther;Sophomore;ComputerSCience;Student;Happy+Coding;I'm+a+Pythonista+)](https://git.io/typing-svg)
-
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 <br>
@@ -41,7 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=ctoic&color=ff69b4)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{ZAHID-ALY3}/count.svg) 
 
   
 </div>
@@ -63,7 +38,7 @@
  <div align="center"> 
   <h2>Languages and Tools 🧰</h2>
    
- [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,mysql,github,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
@@ -80,11 +55,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ZAHID-ALY3&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=ZAHID-ALI3&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -95,7 +70,7 @@
 
 
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZAHID-ALY3&theme=rogue)](https://github.com/ZAHID-ALY3/github-readme-activity-graph)
 
 
 
@@ -109,38 +84,21 @@
   </div>
   </div>
   
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+![borderseparator](https://github.com/ZAHID-ALY3/ZAHID-ALY3/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
   <div>
-<h2 align="center"> Badges 🏆</h2>
-  
-  [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
-  
-</div>
-<div>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=radical)](https://github.com/ctoic/github-profile-trophy)
-</div>
-
-  
-  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-
-
-
-
-
 
 <div align="center">
   <table>
     <tr>
       <h2>Top Programming Languages</h2>
       <td align="center">
-        <a href="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
+        <a href="https://github.com/ZAHID-ALY3/ZAHID-ALY3/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
           <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ctoic/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact&bg_color=00000000" alt="Top Langs" />
+        <a href="https://github.com/ZAHID-ALY3/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAHID-ALY3&layout=compact&bg_color=00000000" alt="Top Langs" />
         </a>
       </td>
     </tr>
