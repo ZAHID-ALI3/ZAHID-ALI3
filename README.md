@@ -13,7 +13,7 @@
   
 <h2>Visitor's Count</h2>
 
-![](https://komarev.com/ghpvc/?username=ctoic&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=ZAHID-ALY3&color=ff69b4)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{ZAHID-ALY3}/count.svg) 
