@@ -13,10 +13,10 @@
   
 <h2>Visitor's Count</h2>
 
-![](https://komarev.com/ghpvc/?username=ZAHID-ALY3&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=ZAHID-ALI3&color=ff69b4)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{ZAHID-ALY3}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{ZAHID-ALI3}/count.svg) 
 
   
 </div>
@@ -43,7 +43,7 @@
 </div>
 
 
-![borderseparator](https://github.com/ZAHID-ALY3/ZAHID-ALY3/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+![borderseparator](https://github.com/ZAHID-ALI3/ZAHID-ALI3/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
   <div align="center">
 
@@ -55,7 +55,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZAHID-ALY3&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ZAHID-ALI3&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
@@ -70,7 +70,7 @@
 
 
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZAHID-ALY3&theme=rogue)](https://github.com/ZAHID-ALY3/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZAHID-ALI3&theme=rogue)](https://github.com/ZAHID-ALI3/github-readme-activity-graph)
 
 
 
@@ -84,7 +84,7 @@
   </div>
   </div>
   
-![borderseparator](https://github.com/ZAHID-ALY3/ZAHID-ALY3/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+![borderseparator](https://github.com/ZAHID-ALI3/ZAHID-ALI3/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
   <div>
 
 <div align="center">
@@ -92,13 +92,13 @@
     <tr>
       <h2>Top Programming Languages</h2>
       <td align="center">
-        <a href="https://github.com/ZAHID-ALY3/ZAHID-ALY3/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
-          <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
+        <a href="https://github.com/ZAHID-ALI3/ZAHID-ALI3/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
+          <img src="https://github.com/ZAHID-ALI3/ZAHID-ALI3/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ZAHID-ALY3/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAHID-ALY3&layout=compact&bg_color=00000000" alt="Top Langs" />
+        <a href="https://github.com/ZAHID-ALI3/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAHID-ALI3&layout=compact&bg_color=00000000" alt="Top Langs" />
         </a>
       </td>
     </tr>
