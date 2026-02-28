@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/zahid-ali-khan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured](https://youtube.com/@zahidalygul8672?si=rt85wc6Kg0XJHCAK)">
+  <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured](https://youtube.com/@zahidalygul8672?si=rt85wc6Kg0XJHCAK">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/Ct0ic">
@@ -118,6 +118,7 @@
   
 
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
+
 
 
 
