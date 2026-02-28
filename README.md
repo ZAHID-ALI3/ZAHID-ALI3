@@ -22,7 +22,7 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/zahid-ali-khan-614211216/">
+  <a href="https://www.linkedin.com/in/zahid-ali-khan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured">
@@ -118,4 +118,5 @@
   
 
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
+
 
